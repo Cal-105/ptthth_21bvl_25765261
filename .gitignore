@@ -1,3 +1,7 @@
 bin/
 out/
 *.class
+temp_test_files/
+uploads/
+data/logs/
+
